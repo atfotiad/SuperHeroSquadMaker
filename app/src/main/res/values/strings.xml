@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SuperHeroSquadMaker</string>
+    <string name="mySquad">MySquad</string>
+    <string name="all_superheroes">All SuperHeroes</string>
+    <string name="heroname">HeroName</string>
+    <string name="superHeroImage">superHeroImage</string>
+    <string name="description">description</string>
+    <string name="do_you_really_want_to_hire_this_character">Do you really want to hire this character ?</string>
+    <string name="connection_problem">Connection Problem</string>
+    <string name="error_message">Error message</string>
+</resources>
